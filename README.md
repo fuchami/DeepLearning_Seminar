@@ -4,7 +4,7 @@
 
 # Contents
 ## seminar1
-・機械学習/Deep Learningについて
+・機械学習/Deep Learningについて
 ・ニューラルネットワーク/パーセプトロン
 ・課題:パーセプトロンの実装
 
